@@ -8,7 +8,7 @@ namespace HelloWorld
         {
             string _Name;//Не нравится
             Console.WriteLine("Введите ваше имя: ");
-            name=Console.ReadLine();
+            _Name = Console.ReadLine();
         }
     }
 }
