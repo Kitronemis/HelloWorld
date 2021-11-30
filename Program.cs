@@ -19,6 +19,7 @@ namespace HelloWorld
         public void Print()
         {
             Console.WriteLine("Пользователь "+ User_Frist_Name +" "+User_Last_Name+", "+Born_Year+" года рождения успешно зарегистрирован");
+            Console.WriteLine("Succes");
         }
     }
     class Program
